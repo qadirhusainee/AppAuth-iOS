@@ -1,5 +1,11 @@
 # AppAuth for iOS and macOS Changelog
 
+## 1.3.0.2
+
+### Notable Changes
+
+1. Support for deeplinking with custom scheme
+
 ## 1.3.0
 
 ### Notable Changes
